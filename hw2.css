@@ -1,0 +1,17 @@
+body{width: 960px;}
+
+
+
+ul { 
+   line-height: 20px;
+}
+
+	margin:auto auto 20px auto;/*上右下左*/
+
+
+
+
+.footer_info p{
+	font-size: 0.7em;
+	line-height: 1.7;
+}
